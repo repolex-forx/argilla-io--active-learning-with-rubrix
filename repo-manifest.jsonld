@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/argilla-io/active-learning-with-rubrix/commit/ef7f7ac2c80f6acc393a26edc7117fc78ce683e1",
       "git:hexsha": "ef7f7ac2c80f6acc393a26edc7117fc78ce683e1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
