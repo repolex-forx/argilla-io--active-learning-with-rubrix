@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "argilla-io",
+  "repo": "active-learning-with-rubrix",
+  "versions": [
+    {
+      "commit": "ef7f7ac2c80f6acc393a26edc7117fc78ce683e1",
+      "parsed_at": "2026-11-08T10:43:13.398765+00:00",
+      "filetree": "filetree/ef7f7ac2c80f6acc393a26edc7117fc78ce683e1.nq.gz",
+      "blobs": [
+        "blob/4af4ba288a32ff906e63c8d20b5f9e79fae9d27e.nq.gz",
+        "blob/2883c5772901f2a58b3a64b76b82b18b8f443529.nq.gz",
+        "blob/ac797141c3f1aa8d2317122569d6b68739ca3430.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz",
+        "blob/165ebac9fc00e0c8e245e9868a5a909a82062500.nq.gz",
+        "blob/e0effec05b602b63a6a6338afdff839737ccdcae.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/80d38e4fe7b7657c6556283465173dbe8861261c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
