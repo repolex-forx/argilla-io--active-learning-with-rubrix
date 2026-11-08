@@ -1,0 +1,11 @@
+{
+  "org": "argilla-io",
+  "repo": "active-learning-with-rubrix",
+  "versions": [
+    {
+      "commit": "ef7f7ac2c80f6acc393a26edc7117fc78ce683e1",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:46:48.358522+00:00"
+    }
+  ]
+}
